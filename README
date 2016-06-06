@@ -1,0 +1,5 @@
+github-parse.js
+
+Simple javascript module to parse the github-style syntax for filtering.
+
+License: WTFPL
