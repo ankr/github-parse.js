@@ -18,5 +18,3 @@ const github = (() => {
 if (typeof window === 'undefined') {
   module.exports = github;
 }
-
-console.log(github('is:open is:pull-request author:"Andreas K." author:"Luke Skywalker"'));
