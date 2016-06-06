@@ -1,0 +1,14 @@
+{
+  "name": "gh-parse",
+  "version": "0.0.1",
+  "description": "Script for parsing github-like search syntax",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Kristiansen <mail@ankr.dk>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
