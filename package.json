@@ -4,7 +4,7 @@
   "description": "Script for parsing github-like search syntax",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/jasmine-node spec/"
   },
   "author": "Andreas Kristiansen <mail@ankr.dk>",
   "license": "WTFPL",
